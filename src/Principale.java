@@ -1,14 +1,14 @@
 /*
  * 
- * @autor Matteo
+ * @autor Matteo Malorgio
  * 
- * @version 1.00
+ * @version 2.00
  * 
  */
 
 public class Principale {
 	
 	public static void main(String[] ags) {
-		System.out.println("PROVA GITHUB 1");
+		System.out.println("PROVA GITHUB 2");
 	}
 }
